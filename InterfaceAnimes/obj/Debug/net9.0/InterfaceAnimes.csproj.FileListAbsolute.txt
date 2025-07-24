@@ -1,0 +1,14 @@
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\bin\Debug\net9.0\InterfaceAnimes.exe
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\bin\Debug\net9.0\InterfaceAnimes.deps.json
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\bin\Debug\net9.0\InterfaceAnimes.runtimeconfig.json
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\bin\Debug\net9.0\InterfaceAnimes.dll
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\bin\Debug\net9.0\InterfaceAnimes.pdb
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.AssemblyInfoInputs.cache
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.AssemblyInfo.cs
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.dll
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\refint\InterfaceAnimes.dll
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.pdb
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\InterfaceAnimes.genruntimeconfig.cache
+C:\Users\diogo\Documents\InterfaceAnimesDio\InterfaceAnimes\obj\Debug\net9.0\ref\InterfaceAnimes.dll

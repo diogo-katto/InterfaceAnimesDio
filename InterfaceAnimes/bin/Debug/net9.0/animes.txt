@@ -1,0 +1,2 @@
+ID;Título;Ano;Gênero;Assistido;Descrição
+0;Frieren;2024;3;Sim;Goat
